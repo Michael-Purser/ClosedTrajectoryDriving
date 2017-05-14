@@ -27,10 +27,4 @@ This task uses two capabilities:
 	* Platooning
 	* Lateral Control
 The first capability is already implemented on the pi_car and is reused for this task.
-The second capability adjusts the car's lateral position to keep it at a constant distance of the reference (within tolerance).
-
-
-FUNCTIONS:
-----------
-
-The second (new) capability reuses the function 
+The second capability adjusts the car's lateral position to keep it at a constant distance of the reference (within tolerance). 
