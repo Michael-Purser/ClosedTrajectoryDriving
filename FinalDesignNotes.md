@@ -45,10 +45,10 @@ Only in a last milestone is a second PiCar added in platooning mode:
 1. One car drives along a straight wall at constant distance using 'basic' control strategy (i.e. a modification of the platooning forward control for lateral control).
     * Benchmark: The car must drive along the wall at a distance of _(to be defined)_ within a tolerance of _(to be defined)_.
 
-2. One car drives along a straight wall at constant distance (within tolerance) using P(ID) control strategy.
+2. One car drives along a straight wall at constant distance using P(ID) control strategy.
     * Benchmark: The car must drive along the wall at a distance of _(to be defined)_ within a tolerance of _(to be defined)_. Initial response rise time and overshoot must be limited to _(to be defined)_ and _(to be defined)_ respectively.
 
-3. One car drives along a straight wall at constant distance (within tolerance) using P(ID) control strategy **and** state estimation scheme.
+3. One car drives along a straight wall at constant distance using P(ID) control strategy **and** state estimation scheme.
     * Benchmark: The car must drive along the wall at a distance of _(to be defined)_ within a tolerance of _(to be defined)_. Initial response rise time and overshoot must be limited to _(to be defined)_ and _(to be defined)_ respectively.
 
 4. One car follows the full closed loop trajectory using same control as in milestone 3. 
